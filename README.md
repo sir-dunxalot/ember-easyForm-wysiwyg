@@ -1,3 +1,5 @@
+##Ember easyForm WYSIWYG Editor
+
 This is a simple integration of a wysiwyg editor, [jQuery te](http://jqueryte.com/) for Ember.js apps using Dockyard's ember-easyForm library.
 
 ##Prerequisites
