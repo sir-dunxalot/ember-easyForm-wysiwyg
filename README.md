@@ -9,7 +9,7 @@ This is a simple integration of a wysiwyg editor, [jQuery te](http://jqueryte.co
 
 ##Usage
 
-For apps built [ember-cli], add [ember-cli.index.js](https://github.com/sir-dunxalot/ember-easyForm-wysiwyg/blob/master/ember-cli.index.js) to your `initializers` directory. For all other apps, add [index.js](https://github.com/sir-dunxalot/ember-easyForm-wysiwyg/blob/master/index.js) to your app.
+For apps built [ember-cli](http://iamstef.net/ember-cli/), add [ember-cli.index.js](https://github.com/sir-dunxalot/ember-easyForm-wysiwyg/blob/master/ember-cli.index.js) to your `initializers` directory. For all other apps, add [index.js](https://github.com/sir-dunxalot/ember-easyForm-wysiwyg/blob/master/index.js) to your app.
 
 In your template, add the wysiwyg editor easily as follows:
 
