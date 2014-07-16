@@ -1,7 +1,3 @@
-/**
-WYSIWYG Editor
-*/
-
 Ember.EasyForm.WYSIWYG = Ember.EasyForm.TextArea.extend({
 
   renderEditor: function() {
